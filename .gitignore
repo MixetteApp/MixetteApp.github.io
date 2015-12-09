@@ -5,6 +5,3 @@ _site
 /.idea
 
 .DS_Store
-
-# We will need to edit this manually on GitHub
-_config.yml

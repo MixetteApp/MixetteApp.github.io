@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The message is in the mix.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://mixetteapp.github.io" # the base hostname & protocol for your site
+#url: "http://localhost:4000" # the base hostname & protocol for your site
 github_username:
 twitter_username: MixetteApp
 facebook_username: MixetteApp
