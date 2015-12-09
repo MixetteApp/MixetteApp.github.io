@@ -8,6 +8,8 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    padding-bottom: 10px;
 }
 
 .site-title {
@@ -16,10 +18,21 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: #00A59B;
+
+    &:hover {
+        text-decoration: none;
+    }
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        //color: $grey-color-dark;
+        color: #00A59B;
+    }
+
+    .logo {
+        height: 50px;
+        width: auto;
     }
 }
 
@@ -105,6 +118,11 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    display: inline;
+
+    li {
+        display: inline;
+    }
 }
 
 .footer-col-wrapper {
@@ -126,8 +144,8 @@
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    //width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    //width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {

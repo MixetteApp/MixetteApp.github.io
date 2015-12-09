@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Mixette - Blog
+email: support@mixetteapp.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The message is in the mix.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://localhost:4000" # the base hostname & protocol for your site
+github_username:
+twitter_username: MixetteApp
+facebook_username: MixetteApp
+pintrest_username: mixette0093
+instagram_username: MixetteApp
 
 # Build settings
 markdown: kramdown
