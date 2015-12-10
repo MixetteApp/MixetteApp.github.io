@@ -3,7 +3,7 @@ layout: post
 title:  "An evolutionary reason why music moves us? Scientists think so."
 date:   2015-12-09 14:47:00
 ---
-![]({{ site.url }}/assets/pexels-photo-3.jpg)
+![]({{ site.url | prepend: site.baseurl }}/assets/pexels-photo-3.jpg)
 
 Music moves us. Think about the first childhood moment when you heard Bing Crosby sing Christmas carols. The first time you danced to Stairway to Heaven at an awkward junior high dance.  The rush of hearing the first few chords of your favorite song at a live gig. The joy of the ice cream truck jingle. Music gifts are poignant and meaningful – but why?
 
