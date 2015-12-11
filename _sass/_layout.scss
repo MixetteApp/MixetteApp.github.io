@@ -114,6 +114,18 @@
     margin-bottom: $spacing-unit / 2;
 }
 
+.nav-list {
+    list-style: none;
+    margin-left: 0;
+    display: inline;
+
+    li {
+        a, a:hover {
+            text-decoration: none;
+        }
+    }
+}
+
 .contact-list,
 .social-media-list {
     list-style: none;
@@ -148,8 +160,8 @@
 }
 
 .footer-col-2 {
-    //width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    //width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
