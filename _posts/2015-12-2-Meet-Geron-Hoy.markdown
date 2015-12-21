@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Meet Geron Hoy!"
+title:  "Music Monday: Meet Geron Hoy"
 date:   2015-12-21 13:57:00
 ---
 ![]({{ site.url | prepend: site.baseurl }}/assets/geron.jpg)
-
-<h1>Music Monday: Meet Geron Hoy</h1>
 
 Last week we had the opportunity to interview Geron Hoy, an amazing up-and-coming Philadelphia based artist.  Geron entered the music scene in 2011 with his debut album, Soldier. Music from Solider, and Geron's second album, Lunatic, has been selected to be played in over 7000 Starbucks stores worldwide.  Learn more about Geron in our exclusive interview below. 
 
